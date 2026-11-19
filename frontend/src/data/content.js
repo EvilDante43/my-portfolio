@@ -78,7 +78,7 @@ export const featured = [
     description: 'A full-stack digital wallet application designed to provide secure user authentication, peer-to-peer money transfers, real-time balance tracking, and transaction management.',
     features: ['Secure JWT authentication', 'Password hashing using bcrypt', 'Peer-to-peer money transfers', 'MongoDB transactions for data consistency', 'Real-time balance tracking', 'Transaction history management', 'Responsive user interface'],
     stack: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'JWT', 'bcrypt', 'Tailwind CSS'],
-    links: [{ label: 'Live Demo', href: 'https://wallet-x-tau.vercel.app/signin' }],
+    links: [{ label: 'Live Demo', href: 'https://wallet-x-tau.vercel.app/' }],
   },
 ];
 
